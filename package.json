@@ -60,7 +60,7 @@
     "less": "2.7.1",
     "less-loader": "2.2.3",
     "lodash": "^4.11.1",
-    "node-sass": "3.10.0",
+    "node-sass": "7.0.0",
     "postcss-loader": "0.13.0",
     "pretty-error": "2.0.0",
     "query-string": "3.0.1",
